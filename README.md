@@ -1,8 +1,15 @@
-# React + Vite
+## Projeto Bíblia Narrada 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Sobre o projeto
 
-Currently, two official plugins are available:
+Projeto de um site de narração de uma bíblia com react.js + vite.js + sass
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Dependências
+```
+  react version | "^18.2.0",
+  react-dom version | "^18.2.0",
+  npm install
+  npm run dev
+  npm install sass | version "^1.77.1"
+  npm install react-icons | version "^5.2.1"
+```
